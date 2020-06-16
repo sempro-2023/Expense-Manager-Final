@@ -6,10 +6,20 @@
 2. Java - General purpose programming language.
 
 # Features
-1. # Category Master.
-i. Category.java
-ii. User can add / manage categories
+   # Category Master.
+   1. PEMService.java & Category.java
+   2. User can add / manage categories
 
-2. 
+   # Expense Entry
+   1. PEMService.java & Expenses.java
+   2. User can add expenses by selecting specific categories.
+   
+   # Expense List
+   1. PEMService.java & Expenses.java
+   2. Raw listing of expenses added by user.
+    
+   # Monthly Expense Reports
+   1. 
+   
 
 
