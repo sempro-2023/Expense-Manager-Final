@@ -47,7 +47,7 @@
    # File Repository
    1. PEMService.java & Repository.java.
    
-   # Local Machine Hard Disk
+   # Local Machine
    1. Java Interface concept of Serialization and Desseraialisation
    2. After exiting the application JVM creates two files in the hard disk 
    3. 'Expenses.ser' and 'Category.ser' are the two files
