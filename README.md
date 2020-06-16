@@ -4,6 +4,16 @@
 # Technology Used
 1. IntelliJ - IDE Jetbrains for Developing Computer Software. 
 2. Java - General purpose programming language.
+3. JDK (13)
+
+# To Execute the file:
+0. git clone https://github.com/atindra305/Expense-Manager-Final.git
+1. Go to the command prompt (Windows)
+2. Go to the terminal (Mac/Linux/Ubuntu)
+3. Locate the file by typing command.
+4. cd downloads (Press Enter)
+5. java -jar PEMApp.jar (Press Enter)
+6. A Character User Interface will be opened in the same terminal window.
 
 # Features
    # User Interface
@@ -44,5 +54,12 @@
    4. To retrieve the files.
    5. Run the jar file again
    6. Enter the choice as 2,3,4,5,6,7 which would be enough to show the data.
+   
+# For More Understanding of Code:
+   1. git clone https://github.com/atindra305/Expense-Manager-Final.git
+   2. Open the Files in Java IDE (IntelliJ Community is most preferable).
+   3. I have added Comments also performed proper Source Code Documentations.
+   4. You can read through them and get a better idea
+   
    
 
