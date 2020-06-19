@@ -1,19 +1,23 @@
 # Expense-Manager
-2nd Semester Project 1st Year.
+1st Year 2nd Semester Project.
 
 # Technology Used
 1. IntelliJ - IDE Jetbrains for Developing Computer Software. 
 2. Java - General purpose programming language.
-3. JDK (13)
+
+# Requirements:
+1. Any Operating System (Windows / macOS / Linux).
+2. JRE Installed in Computer.
+3. JDK 13 Installed.
 
 # To Execute the file:
-0. git clone https://github.com/atindra305/Expense-Manager-Final.git
-1. Go to the command prompt (Windows)
-2. Go to the terminal (Mac/Linux/Ubuntu)
-3. Locate the file by typing command.
-4. cd downloads (Press Enter)
-5. java -jar PEMApp.jar (Press Enter)
-6. A Character User Interface will be opened in the same terminal window.
+1. git clone https://github.com/atindra305/Expense-Manager-Final.git
+2. Go to the command prompt (Windows)
+3. Go to the terminal (Mac/Linux/Ubuntu)
+4. Locate the file by typing command.
+5. cd downloads (Press Enter)
+6. java -jar PEMApp.jar (Press Enter)
+7. A Character User Interface will be opened in the same terminal window.
 
 # Features
    # User Interface
@@ -44,11 +48,13 @@
    2. User can view the category wise expense listing
 
 # Database
-   # File Repository
+   # File Repository (Temporary)
    1. PEMService.java & Repository.java.
+   2. Collection API concet used in Repository.java Class.
+   3. Repository.java is for temporary storage (As long as JVM runs, storage exists. JVM terminates, Storage deleted). 
    
-   # Local Machine
-   1. Java Interface concept of Serialization and Desseraialisation
+   # Local Machine (Permanent)
+   1. Java Interface concept of Serialization and Deseraialisation
    2. After exiting the application JVM creates two files in the hard disk 
    3. 'Expenses.ser' and 'Category.ser' are the two files
    4. To retrieve the files.
