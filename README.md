@@ -1,6 +1,10 @@
 # Expense-Manager
 1st Year 2nd Semester Project.
 
+# Team Members:
+1. [Pranjal Bhardwaj](https://github.com/DecimatorMind)
+2. [Sadhil Chhabra](https://github.com/sadhilchhabra)
+
 # Technology Used
 1. IntelliJ - IDE Jetbrains for Developing Computer Software. 
 2. Java - General purpose programming language.
