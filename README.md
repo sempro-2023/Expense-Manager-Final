@@ -2,8 +2,9 @@
 1st Year 2nd Semester Project.
 
 # Team Members:
-1. [Pranjal Bhardwaj](https://github.com/DecimatorMind)
-2. [Sadhil Chhabra](https://github.com/sadhilchhabra)
+1. [Atindra Shekhar](https://github.com/atindra305)
+2. [Pranjal Bhardwaj](https://github.com/DecimatorMind)
+3. [Sadhil Chhabra](https://github.com/sadhilchhabra)
 
 # Technology Used
 1. IntelliJ - IDE Jetbrains for Developing Computer Software. 
